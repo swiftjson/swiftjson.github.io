@@ -1,0 +1,8 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <g>
+        <circle fill="#333333" cx="120" cy="120" r="120" id="outerRing"/>
+        <circle fill="#ffffff" cx="120" cy="120" r="110" id="innerRing"/>
+        <circle fill="#333333" cx="120" cy="120" r="105" id="centerCircle"/>
+        <text fill="#ffffff" x="120" y="170" font-size="150" font-family="Ubuntu" text-anchor="middle" id="sjTitle">SJ</text>
+    </g>
+</svg> 
