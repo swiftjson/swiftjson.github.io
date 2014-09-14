@@ -1,0 +1,56 @@
+.content {
+    padding: 10px;
+}
+
+a {
+    color:#fff;
+    text-decoration: none;
+}
+
+#heroDescription {
+    font-family: 'Lato', serif;
+    text-align:center;
+}
+
+#heroDescriptionHeader {
+    font-size:50px;
+    color:#444;
+    margin-top:-5px;
+}
+#heroDescriptionSubHeader {
+    font-size:20px;
+    color:#444;
+    margin-top:-30px;
+}
+
+#logoContainer {
+    margin:auto;
+    width:130px;
+    height:130px;
+}
+
+.bigButton {
+    width:250px;
+    margin:auto;
+    border-radius:10px;
+    background-color:#64C37F;
+}
+
+.bigButton:hover {
+    background-color:#45B164;
+}
+
+.blueButton {
+    background-color:#3688A8;
+}
+
+.blueButton:hover {
+    background-color:#247797;
+}
+
+.bigButton h1 {
+    font-size:30px;
+    color:#fff;
+    padding-top:10px;
+    padding-bottom:10px;
+}
